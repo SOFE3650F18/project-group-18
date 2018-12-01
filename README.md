@@ -1,2 +1,3 @@
-# project-group-18
-project-group-18 created by GitHub Classroom
+# Project-Group-18#
+
+Course Management Software Attribute Driven Design Project
