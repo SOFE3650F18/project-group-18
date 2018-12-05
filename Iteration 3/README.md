@@ -1,4 +1,5 @@
-Iteration 3: Addressing Quality Attribute Scenario Driver (QA-2)
+Iteration 3: Addressing Quality Attribute Scenario Driver 
+(QA-2)
 ================================================================
 
 Step 2: Establish Iteration Goal by Selecting Drivers
