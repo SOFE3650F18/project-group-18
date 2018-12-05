@@ -72,3 +72,16 @@ Step 5: Instantiate Architectural Elements, Allocate Responsibilities & Define I
 -----------------------------------------------------------------------------------------
 
 No functionalities and interfaces are defined in this first iteration.
+
+Step 6: Sketch Views & Record Design Decisions
+----------------------------------------------
+
+Step 7: Analysis of Current Design & Review Iteration Goal & Achievement of Design Purpose
+------------------------------------------------------------------------------------------
+
+| **Not Addressed** | **Partially Addressed**      | **Completely Addressed** | **Design Decisions Made in Iteration 1**                                                                                 |
+|-------------------|------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|                   | CON-7, CON-5, CON-1, QA - 1, |                          | To meet the needs of all users, the reference architecture of a web application will be implemented.                     |
+|                   | QA - 2, CON - 1              |                          |                                                                                                                          |
+|                   | UC-21                        | CON-8                    | Use of a Java framework will assist with separation of classes and permissions. It also adheres to constraints provided. |
+|                   | QA-5, UC-15                  |                          | Layered architecture creates stages of abstraction that can be used to grant and restrict permissions.                   |
