@@ -67,3 +67,8 @@ Step 4: Chose 1+ Design Concepts That Satisfy The Selected Drivers
 | Web Application     | To meet the needs of all users, the reference architecture of a web application will be implemented.                                                                                                                   |
 | Object-Oriented     | Supports use of a Java framework will assist with separation of classes and permissions. It also adheres to constraints provided.                                                                                      |
 | N-Tier Architecture | Top-Tier: Client program handles the display of info on the web client Middle-Tier: Application program implements the logic of business software application to access database servers Bottom-Tier: Database Servers |
+
+Step 5: Instantiate Architectural Elements, Allocate Responsibilities & Define Interfaces
+-----------------------------------------------------------------------------------------
+
+No functionalities and interfaces are defined in this first iteration.
