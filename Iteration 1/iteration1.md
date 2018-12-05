@@ -58,3 +58,12 @@ Step 3: Chose 1+ Elements of the System to Refine
 
 The element to be refined is the entire course management system, primarily
 consisting the main framework of the system.
+
+Step 4: Chose 1+ Design Concepts That Satisfy The Selected Drivers
+------------------------------------------------------------------
+
+| **Design Decision** | **Rationale**                                                                                                                                                                                                          |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Web Application     | To meet the needs of all users, the reference architecture of a web application will be implemented.                                                                                                                   |
+| Object-Oriented     | Supports use of a Java framework will assist with separation of classes and permissions. It also adheres to constraints provided.                                                                                      |
+| N-Tier Architecture | Top-Tier: Client program handles the display of info on the web client Middle-Tier: Application program implements the logic of business software application to access database servers Bottom-Tier: Database Servers |
