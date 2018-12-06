@@ -40,9 +40,8 @@ Step 5: Instantiate Architectural Elements, Allocate Responsibilities & Define I
 Step 6: Sketch Views & Record Design Decisions
 ----------------------------------------------
 
-![](media/ec1461fc102dcdc287741f119664032b.png)
-
-![](media/4dac4b0d49d040b898c5f25c029833a7.png)
+![Iteration2_deployment]( https://github.com/SOFE3650F18/project-group-18/blob/master/Iteration%202/Deployment.png)
+![Iteration2_sequence](https://github.com/SOFE3650F18/project-group-18/blob/master/Iteration%202/Sequence%20Diagram.png)
 
 Step 7: Perform Analysis of Current Design & Review Iteration Goal & Achievement of Design Purpose
 --------------------------------------------------------------------------------------------------
