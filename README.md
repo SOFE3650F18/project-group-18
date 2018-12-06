@@ -20,8 +20,11 @@ Deliverables:
 Deliverable 1: Use Cases, Quality Attributes, and Constraints of CMS
 
 Deliverable 2: 
+            
             [Iteration 1](https://github.com/SOFE3650F18/project-group-18/tree/master/Iteration%201)
+            
             [Iteration 2](https://github.com/SOFE3650F18/project-group-18/tree/master/Iteration%202)
+            
             [Iteration 3](https://github.com/SOFE3650F18/project-group-18/tree/master/Iteration%203)
 
 Grading Scheme:
