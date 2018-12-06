@@ -19,5 +19,17 @@
 **Contributions:**
 
 Kajan Ravindran:
+- Initial Setup of Git Repo
+- Iteration 1
+- Iteration 2
+- Review
+- KanBan Project Board
 
 Omair Farooqui:
+- Iteration 2
+- Iteration 3
+- Review
+- Diagrams
+
+**Note:**
+In addition to GitHub, Google Docs was also used as a collaborative space to compose majority of assignment and assignment content.
