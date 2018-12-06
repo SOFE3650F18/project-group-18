@@ -74,6 +74,9 @@ Step 5: Instantiate Architectural Elements, Allocate Responsibilities & Define I
 No functionalities and interfaces are defined in this first iteration.
 
 Step 6: Sketch Views & Record Design Decisions
+![Iteration1_image1]( https://github.com/SOFE3650F18/project-group-18/blob/master/Iteration%201/Iteration%201%20Image%201.png)
+----------------------------------------------
+![Iteration1_step6]( https://github.com/SOFE3650F18/project-group-18/blob/master/Iteration%201/Iteration%201_%20Step%206.png)
 ----------------------------------------------
 
 Step 7: Analysis of Current Design & Review Iteration Goal & Achievement of Design Purpose
