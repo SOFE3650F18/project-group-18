@@ -16,8 +16,17 @@ to be considered here are:
 Step 3: Choose 1+ Elements of System to Refine
 ----------------------------------------------
 
+As the n-tier layered architecture is composed of the three layers that make up
+the core functionality of the system, they will be decomposed further.
+
 Step 4: Chose 1+ Design Concepts That Satisfy The Selected Drivers
 ------------------------------------------------------------------
+
+| **Design Decision & Location** | **Rationale & Assumptions**                                                                                                                                                                                                                     |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Google App Engine              | Web framework that allows for the implementation of a Java-based development. Applications are run from multiple servers and are sandboxed to allow for efficiency. Scaling for applications is also supported for cope under increased demand. |
+| Cloud SQL (PostgreSQL & MySQL) | Supported under the App Engine, both are powerful database management systems that are focused around stability, security, and expandability.                                                                                                   |
+| Event Driven Programming       | Allows for a dynamic user interface the event-driven architecture caters to both client and server sides to allow for high performance under load.                                                                                              |
 
 Step 5: Instantiate Architectural Elements, Allocate Responsibilities & Define Interfaces
 -----------------------------------------------------------------------------------------
