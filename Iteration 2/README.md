@@ -31,8 +31,24 @@ Step 4: Chose 1+ Design Concepts That Satisfy The Selected Drivers
 Step 5: Instantiate Architectural Elements, Allocate Responsibilities & Define Interfaces
 -----------------------------------------------------------------------------------------
 
+| **Design Decision & Location** | **Rationale**                                                                        |
+|--------------------------------|--------------------------------------------------------------------------------------|
+| Google App Engine              | The main point of the connector to communicate with the database, client and server. |
+| Cloud SQL (PostgreSQL & MySQL) | Data storage and retrieval                                                           |
+| Event Driven Programming       | Processes events to generate responses from the back-ups and restoration processes   |
+
 Step 6: Sketch Views & Record Design Decisions
 ----------------------------------------------
 
+![](media/ec1461fc102dcdc287741f119664032b.png)
+
+![](media/4dac4b0d49d040b898c5f25c029833a7.png)
+
 Step 7: Perform Analysis of Current Design & Review Iteration Goal & Achievement of Design Purpose
 --------------------------------------------------------------------------------------------------
+
+| **Not Addressed** | **Partially Addressed** | **Completely Addressed** | **Design Decisions Made in Iteration 1**                                                                   |
+|-------------------|-------------------------|--------------------------|------------------------------------------------------------------------------------------------------------|
+|                   | CON-1                   | CON-7, CON-5, UC-21      | App engine provides flexible versatile client-server to communicate with the database and various systems. |
+|                   | QA-02, UC-15            | QA-01                    | Using CloudSQL ensures self-contained data set that is secure and accessible.                              |
+| QA-05             |                         |                          | No relevant decision was made.                                                                             |
